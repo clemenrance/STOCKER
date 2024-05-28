@@ -3,7 +3,7 @@
 date_default_timezone_set("Asia/Kolkata");
 
 // define the site root
-define('SITE_ROOT', 'http://stock-lb-1576783510.us-east-1.elb.amazonaws.com/ample/');
+define('SITE_ROOT', 'http://stock-lb-1576783510.us-east-1.elb.amazonaws.com/STOCKER/');
 
 
 
